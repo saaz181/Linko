@@ -1,0 +1,586 @@
+[
+    {
+        "id": 1,
+        "services": [
+            {
+                "id": 2,
+                "category": {
+                    "id": 1,
+                    "title": "شبکه های اجتماعی و سرویس ها",
+                    "description": "تلگرام، واتساپ، توییتر، دیسکورد، یوتیوب، آپارات ..."
+                },
+                "color": "#000000",
+                "background_color": "#ffffff",
+                "font_size": 14,
+                "icon": "/media/icons/telegram.png",
+                "border_color": "#000000",
+                "text_direction": "c",
+                "title": "تلگرام",
+                "full_size": false,
+                "margin_bottom_top": 1,
+                "base_link_to_append": "https://t.me/",
+                "link": "",
+                "description": "ایدی تلگرام یا لینک گروه"
+            },
+            {
+                "id": 3,
+                "category": {
+                    "id": 1,
+                    "title": "شبکه های اجتماعی و سرویس ها",
+                    "description": "تلگرام، واتساپ، توییتر، دیسکورد، یوتیوب، آپارات ..."
+                },
+                "color": "#000000",
+                "background_color": "#ffffff",
+                "font_size": 14,
+                "icon": "/media/icons/instagram.png",
+                "border_color": "#000000",
+                "text_direction": "c",
+                "title": "اینستاگرام",
+                "full_size": false,
+                "margin_bottom_top": 1,
+                "base_link_to_append": "https://www.instagram.com/",
+                "link": "",
+                "description": "ایدی اینستاگرام"
+            },
+            {
+                "id": 4,
+                "category": {
+                    "id": 1,
+                    "title": "شبکه های اجتماعی و سرویس ها",
+                    "description": "تلگرام، واتساپ، توییتر، دیسکورد، یوتیوب، آپارات ..."
+                },
+                "color": "#000000",
+                "background_color": "#ffffff",
+                "font_size": 14,
+                "border_color": "#000000",
+                "text_direction": "c",
+                "placeholder_text": "لینک کامل را وارد کنید",
+                "title": "یوتیوب",
+                "full_size": false,
+                "margin_bottom_top": 1,
+                "base_link_to_append": "https://youtu.be",
+                "link": "",
+                "description": "لینک ویدئو و چنل یوتیوب"
+            },
+            {
+                "id": 6,
+                "category": {
+                    "id": 1,
+                    "title": "شبکه های اجتماعی و سرویس ها",
+                    "description": "تلگرام، واتساپ، توییتر، دیسکورد، یوتیوب، آپارات ..."
+                },
+                "color": "#000000",
+                "background_color": "#ffffff",
+                "font_size": 14,
+                "icon": "/media/icons/aparat_23upO1X.png",
+                "border_color": "#000000",
+                "text_direction": "c",
+                "placeholder_text": "لینک آپارات را وارد کنید https://www.aparat.com/####",
+                "title": "آپارات",
+                "full_size": false,
+                "margin_bottom_top": 1,
+                "link": "",
+                "description": "لینک آپارات"
+            },
+            {
+                "id": 7,
+                "category": {
+                    "id": 1,
+                    "title": "شبکه های اجتماعی و سرویس ها",
+                    "description": "تلگرام، واتساپ، توییتر، دیسکورد، یوتیوب، آپارات ..."
+                },
+                "color": "#000000",
+                "background_color": "#ffffff",
+                "font_size": 14,
+                "icon": "/media/icons/twitter.png",
+                "border_color": "#000000",
+                "text_direction": "c",
+                "placeholder_text": "لینک توییتر را وارد کنید",
+                "title": "توییتر",
+                "full_size": false,
+                "margin_bottom_top": 1,
+                "link": "",
+                "description": "لینک توییت"
+            },
+            {
+                "id": 8,
+                "category": {
+                    "id": 1,
+                    "title": "شبکه های اجتماعی و سرویس ها",
+                    "description": "تلگرام، واتساپ، توییتر، دیسکورد، یوتیوب، آپارات ..."
+                },
+                "color": "#000000",
+                "background_color": "#ffffff",
+                "font_size": 14,
+                "icon": "/media/icons/linkedin.png",
+                "border_color": "#000000",
+                "text_direction": "c",
+                "placeholder_text": "لینک لینکداین را وارد کنید",
+                "title": "لینکداین",
+                "full_size": false,
+                "margin_bottom_top": 1,
+                "link": "",
+                "description": "لینکداین"
+            },
+            {
+                "id": 9,
+                "category": {
+                    "id": 1,
+                    "title": "شبکه های اجتماعی و سرویس ها",
+                    "description": "تلگرام، واتساپ، توییتر، دیسکورد، یوتیوب، آپارات ..."
+                },
+                "color": "#000000",
+                "background_color": "#ffffff",
+                "font_size": 14,
+                "icon": "/media/icons/facebook.png",
+                "border_color": "#000000",
+                "text_direction": "c",
+                "placeholder_text": "لینک فیسبوک خود را وارد کنید",
+                "title": "فیسبوک",
+                "full_size": false,
+                "margin_bottom_top": 1,
+                "link": "",
+                "description": "facebook & Messenger"
+            },
+            {
+                "id": 10,
+                "category": {
+                    "id": 1,
+                    "title": "شبکه های اجتماعی و سرویس ها",
+                    "description": "تلگرام، واتساپ، توییتر، دیسکورد، یوتیوب، آپارات ..."
+                },
+                "color": "#000000",
+                "background_color": "#ffffff",
+                "font_size": 14,
+                "icon": "/media/icons/clubhouse.png",
+                "border_color": "#000000",
+                "text_direction": "c",
+                "placeholder_text": "لینک کلاب هاوس را وارد کنید",
+                "title": "کلاب هاوس",
+                "full_size": false,
+                "margin_bottom_top": 1,
+                "link": "",
+                "description": "clubhouse"
+            },
+            {
+                "id": 11,
+                "category": {
+                    "id": 1,
+                    "title": "شبکه های اجتماعی و سرویس ها",
+                    "description": "تلگرام، واتساپ، توییتر، دیسکورد، یوتیوب، آپارات ..."
+                },
+                "color": "#000000",
+                "background_color": "#ffffff",
+                "font_size": 14,
+                "icon": "/media/icons/whatsapp.png",
+                "border_color": "#000000",
+                "text_direction": "c",
+                "placeholder_text": "شماره واتساپ را وارد کنید",
+                "title": "واتساپ",
+                "full_size": false,
+                "margin_bottom_top": 1,
+                "link": "",
+                "description": "whatsapp"
+            },
+            {
+                "id": 12,
+                "category": {
+                    "id": 1,
+                    "title": "شبکه های اجتماعی و سرویس ها",
+                    "description": "تلگرام، واتساپ، توییتر، دیسکورد، یوتیوب، آپارات ..."
+                },
+                "color": "#000000",
+                "background_color": "#ffffff",
+                "font_size": 14,
+                "icon": "/media/icons/twitch.png",
+                "border_color": "#000000",
+                "text_direction": "c",
+                "placeholder_text": "لینک توییچ را وارد کنید",
+                "title": "توییچ",
+                "full_size": false,
+                "margin_bottom_top": 1,
+                "base_link_to_append": "https://www.twitch.tv",
+                "link": "",
+                "description": "Twitch"
+            },
+            {
+                "id": 13,
+                "category": {
+                    "id": 1,
+                    "title": "شبکه های اجتماعی و سرویس ها",
+                    "description": "تلگرام، واتساپ، توییتر، دیسکورد، یوتیوب، آپارات ..."
+                },
+                "color": "#000000",
+                "background_color": "#ffffff",
+                "font_size": 14,
+                "icon": "/media/icons/patreon.png",
+                "border_color": "#000000",
+                "text_direction": "c",
+                "placeholder_text": "لینک کامل را وارد کنید",
+                "title": "پترئون",
+                "full_size": false,
+                "margin_bottom_top": 1,
+                "link": "",
+                "description": "Patreon"
+            },
+            {
+                "id": 14,
+                "category": {
+                    "id": 1,
+                    "title": "شبکه های اجتماعی و سرویس ها",
+                    "description": "تلگرام، واتساپ، توییتر، دیسکورد، یوتیوب، آپارات ..."
+                },
+                "color": "#000000",
+                "background_color": "#ffffff",
+                "font_size": 14,
+                "icon": "/media/icons/pinterest.png",
+                "border_color": "#000000",
+                "text_direction": "c",
+                "placeholder_text": "https://www.pinterest.com/***",
+                "title": "پینترست",
+                "full_size": false,
+                "margin_bottom_top": 1,
+                "link": "",
+                "description": "Pinterest"
+            },
+            {
+                "id": 15,
+                "category": {
+                    "id": 1,
+                    "title": "شبکه های اجتماعی و سرویس ها",
+                    "description": "تلگرام، واتساپ، توییتر، دیسکورد، یوتیوب، آپارات ..."
+                },
+                "color": "#000000",
+                "background_color": "#ffffff",
+                "font_size": 14,
+                "icon": "/media/icons/tiktok.png",
+                "border_color": "#000000",
+                "text_direction": "c",
+                "placeholder_text": "example: https://www.tiktok.com/***",
+                "title": "تیک تاک",
+                "full_size": false,
+                "margin_bottom_top": 1,
+                "link": "",
+                "description": "TikTok"
+            },
+            {
+                "id": 16,
+                "category": {
+                    "id": 1,
+                    "title": "شبکه های اجتماعی و سرویس ها",
+                    "description": "تلگرام، واتساپ، توییتر، دیسکورد، یوتیوب، آپارات ..."
+                },
+                "color": "#000000",
+                "background_color": "#ffffff",
+                "font_size": 14,
+                "icon": "/media/icons/anchor.png",
+                "border_color": "#000000",
+                "text_direction": "c",
+                "placeholder_text": "https://anchor.fm/###",
+                "title": "انکر",
+                "full_size": false,
+                "margin_bottom_top": 1,
+                "link": "",
+                "description": "Anchor by Spotify"
+            },
+            {
+                "id": 17,
+                "category": {
+                    "id": 1,
+                    "title": "شبکه های اجتماعی و سرویس ها",
+                    "description": "تلگرام، واتساپ، توییتر، دیسکورد، یوتیوب، آپارات ..."
+                },
+                "color": "#000000",
+                "background_color": "#ffffff",
+                "font_size": 14,
+                "icon": "/media/icons/Apple-music.png",
+                "border_color": "#000000",
+                "text_direction": "c",
+                "placeholder_text": "https://music.apple.com/###",
+                "title": "اپل موزیک",
+                "full_size": false,
+                "margin_bottom_top": 1,
+                "link": "",
+                "description": "Apple Music"
+            },
+            {
+                "id": 18,
+                "category": {
+                    "id": 1,
+                    "title": "شبکه های اجتماعی و سرویس ها",
+                    "description": "تلگرام، واتساپ، توییتر، دیسکورد، یوتیوب، آپارات ..."
+                },
+                "color": "#000000",
+                "background_color": "#ffffff",
+                "font_size": 14,
+                "icon": "/media/icons/spotify.png",
+                "border_color": "#000000",
+                "text_direction": "c",
+                "placeholder_text": "https://open.spotify.com/###",
+                "title": "اسپاتیفای",
+                "full_size": false,
+                "margin_bottom_top": 1,
+                "link": "",
+                "description": "Spotify"
+            },
+            {
+                "id": 19,
+                "category": {
+                    "id": 1,
+                    "title": "شبکه های اجتماعی و سرویس ها",
+                    "description": "تلگرام، واتساپ، توییتر، دیسکورد، یوتیوب، آپارات ..."
+                },
+                "color": "#000000",
+                "background_color": "#ffffff",
+                "font_size": 14,
+                "icon": "/media/icons/google-play.png",
+                "border_color": "#000000",
+                "text_direction": "c",
+                "placeholder_text": "example: https://play.google.com/###",
+                "title": "گوگل پلی",
+                "full_size": false,
+                "margin_bottom_top": 1,
+                "link": "",
+                "description": "Google Play"
+            },
+            {
+                "id": 20,
+                "category": {
+                    "id": 1,
+                    "title": "شبکه های اجتماعی و سرویس ها",
+                    "description": "تلگرام، واتساپ، توییتر، دیسکورد، یوتیوب، آپارات ..."
+                },
+                "color": "#000000",
+                "background_color": "#ffffff",
+                "font_size": 14,
+                "icon": "/media/icons/app-store.png",
+                "border_color": "#000000",
+                "text_direction": "c",
+                "placeholder_text": "example: https://apps.apple.com/###",
+                "title": "اپ استور",
+                "full_size": false,
+                "margin_bottom_top": 1,
+                "link": "",
+                "description": "App Store"
+            },
+            {
+                "id": 21,
+                "category": {
+                    "id": 1,
+                    "title": "شبکه های اجتماعی و سرویس ها",
+                    "description": "تلگرام، واتساپ، توییتر، دیسکورد، یوتیوب، آپارات ..."
+                },
+                "color": "#000000",
+                "background_color": "#ffffff",
+                "font_size": 14,
+                "icon": "/media/icons/skype.png",
+                "border_color": "#000000",
+                "text_direction": "c",
+                "placeholder_text": "example: https://join.skype.com",
+                "title": "اسکایپ",
+                "full_size": false,
+                "margin_bottom_top": 1,
+                "link": "",
+                "description": "Skype"
+            },
+            {
+                "id": 22,
+                "category": {
+                    "id": 1,
+                    "title": "شبکه های اجتماعی و سرویس ها",
+                    "description": "تلگرام، واتساپ، توییتر، دیسکورد، یوتیوب، آپارات ..."
+                },
+                "color": "#000000",
+                "background_color": "#ffffff",
+                "font_size": 14,
+                "icon": "/media/icons/discord.png",
+                "border_color": "#000000",
+                "text_direction": "c",
+                "placeholder_text": "example: https://discord.gg/###",
+                "title": "دیسکورد",
+                "full_size": false,
+                "margin_bottom_top": 1,
+                "link": "",
+                "description": "Discord"
+            }
+        ],
+        "contact_info": [
+            {
+                "id": 23,
+                "category": {
+                    "id": 2,
+                    "title": "تماس و راه های ارتباطی",
+                    "description": "شماره تلفن، تلفن ثابت، ایمیل، فکس، SMS"
+                },
+                "color": "#000000",
+                "background_color": "#ffffff",
+                "font_size": 14,
+                "icon": "/media/icons/phone-number.png",
+                "border_color": "#000000",
+                "text_direction": "c",
+                "title": "شماره تلفن",
+                "full_size": false,
+                "margin_bottom_top": 1,
+                "_type": "phone_number"
+            },
+            {
+                "id": 24,
+                "category": {
+                    "id": 2,
+                    "title": "تماس و راه های ارتباطی",
+                    "description": "شماره تلفن، تلفن ثابت، ایمیل، فکس، SMS"
+                },
+                "color": "#000000",
+                "background_color": "#ffffff",
+                "font_size": 14,
+                "icon": "/media/icons/sms.png",
+                "border_color": "#000000",
+                "text_direction": "c",
+                "placeholder_text": "شماره پیامک را وارد کنید",
+                "title": "SMS",
+                "full_size": false,
+                "margin_bottom_top": 1,
+                "_type": "sms"
+            },
+            {
+                "id": 25,
+                "category": {
+                    "id": 2,
+                    "title": "تماس و راه های ارتباطی",
+                    "description": "شماره تلفن، تلفن ثابت، ایمیل، فکس، SMS"
+                },
+                "color": "#000000",
+                "background_color": "#ffffff",
+                "font_size": 14,
+                "icon": "/media/icons/email.png",
+                "border_color": "#000000",
+                "text_direction": "c",
+                "placeholder_text": "example@example.com",
+                "title": "ایمیل",
+                "full_size": false,
+                "margin_bottom_top": 1,
+                "_type": "email"
+            },
+            {
+                "id": 26,
+                "category": {
+                    "id": 2,
+                    "title": "تماس و راه های ارتباطی",
+                    "description": "شماره تلفن، تلفن ثابت، ایمیل، فکس، SMS"
+                },
+                "color": "#000000",
+                "background_color": "#ffffff",
+                "font_size": 14,
+                "icon": "/media/icons/home-phone.png",
+                "border_color": "#000000",
+                "text_direction": "c",
+                "placeholder_text": "تلفن ثابت به همراه کدشهر: 021555666",
+                "title": "تلفن ثابت",
+                "full_size": false,
+                "margin_bottom_top": 1,
+                "_type": "tel"
+            },
+            {
+                "id": 27,
+                "category": {
+                    "id": 2,
+                    "title": "تماس و راه های ارتباطی",
+                    "description": "شماره تلفن، تلفن ثابت، ایمیل، فکس، SMS"
+                },
+                "color": "#000000",
+                "background_color": "#ffffff",
+                "font_size": 14,
+                "icon": "/media/icons/fax.png",
+                "border_color": "#000000",
+                "text_direction": "c",
+                "placeholder_text": "شماره فکس را وارد کنید",
+                "title": "فکس",
+                "full_size": false,
+                "margin_bottom_top": 1,
+                "_type": "fax"
+            }
+        ],
+        "navigation_info": [
+            {
+                "id": 28,
+                "category": {
+                    "id": 6,
+                    "title": "مسیریابی",
+                    "description": "لینک اپلیکیشن های مسیر یابی، نشان، بلد، گوگل مپ و ..."
+                },
+                "color": "#000000",
+                "background_color": "#ffffff",
+                "font_size": 14,
+                "icon": "/media/icons/google-maps.png",
+                "border_color": "#000000",
+                "text_direction": "c",
+                "placeholder_text": "example: https://goo.gl/maps/###",
+                "title": "Google Map",
+                "full_size": false,
+                "margin_bottom_top": 1,
+                "application": "google_map",
+                "detail_address": ""
+            },
+            {
+                "id": 29,
+                "category": {
+                    "id": 6,
+                    "title": "مسیریابی",
+                    "description": "لینک اپلیکیشن های مسیر یابی، نشان، بلد، گوگل مپ و ..."
+                },
+                "color": "#000000",
+                "background_color": "#ffffff",
+                "font_size": 14,
+                "icon": "/media/icons/balad.png",
+                "border_color": "#000000",
+                "text_direction": "c",
+                "placeholder_text": "example: https://balad.ir/###",
+                "title": "بلد",
+                "full_size": false,
+                "margin_bottom_top": 1,
+                "application": "balad",
+                "detail_address": ""
+            },
+            {
+                "id": 30,
+                "category": {
+                    "id": 6,
+                    "title": "مسیریابی",
+                    "description": "لینک اپلیکیشن های مسیر یابی، نشان، بلد، گوگل مپ و ..."
+                },
+                "color": "#000000",
+                "background_color": "#ffffff",
+                "font_size": 14,
+                "icon": "/media/icons/neshan.png",
+                "border_color": "#000000",
+                "text_direction": "c",
+                "placeholder_text": "example: https://nshn.ir/###",
+                "title": "نشان",
+                "full_size": false,
+                "margin_bottom_top": 1,
+                "application": "neshan",
+                "detail_address": ""
+            },
+            {
+                "id": 31,
+                "category": {
+                    "id": 6,
+                    "title": "مسیریابی",
+                    "description": "لینک اپلیکیشن های مسیر یابی، نشان، بلد، گوگل مپ و ..."
+                },
+                "color": "#000000",
+                "background_color": "#ffffff",
+                "font_size": 14,
+                "icon": "/media/icons/waze-64.png",
+                "border_color": "#000000",
+                "text_direction": "c",
+                "placeholder_text": "example: https://ul.waze.com/###",
+                "title": "Waze",
+                "full_size": false,
+                "margin_bottom_top": 1,
+                "application": "waze",
+                "detail_address": ""
+            }
+        ]
+    }
+]
